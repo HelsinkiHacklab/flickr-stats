@@ -57,7 +57,7 @@ end
 
 
 
-aika_start = aika_stop - 14 # 14 days
+aika_start = aika_stop - 56 # 8 weeks
 print "start "
 print aika_start
 print "     stop "
