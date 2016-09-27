@@ -1,12 +1,15 @@
 # flickr-stats
-Draws graphs based on flickr photo upload frequency
+Draws polar plot graphs based on flickr photo upload frequency
 
 ## Requirements
 
 R 3.0.+ and libraries:
- * Cairo (libcairo-dev required)
  * data.table
  * ggplot2
+
+Optional
+ * Cairo (libcairo-dev required)
+
 
 Ruby2 and libraries
  * flickraw
