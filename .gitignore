@@ -1,3 +1,4 @@
 locals.rb
 *.png
 *~
+tmp/*
